@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de Ciência da Computação (UFSCar)<br>
+🔭 Computer Science Student | UFSCar<br>
 
 
 ## 🌐 Socials:
