@@ -3,9 +3,7 @@
 
 💻 I'm a Computer Science undergraduate at the University of São Carlos (UFSCar), one of the top tech universities in Brazil.
 
-✨ I’m passionate about Competitive Programming, Software and Web Development, Data Science and Machine Learning, always excited to learn and dive into new fields.
-
-🚀 Let’s connect to share ideas, knowledge, and opportunities!<br>
+✨ I’m passionate about Competitive Programming, Software and Web Development, Data Science and Machine Learning, always excited to learn and dive into new fields.<br>
 
 
 ## 🌐 Socials:
