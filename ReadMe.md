@@ -1,9 +1,9 @@
 # 👋 Hi, my name is Alvaro!
 
-💻 Computer Science undergraduate at the University of São Carlos (UFSCar)
-💡 Exploring the intersection of technology, finance, and product development.
-🏅 Competitive programmer & passionate about algorithms, AI, and building data-driven systems.
-😀 Focused on building projects and creating meaningful impact.
+💻 Computer Science undergraduate at the University of São Carlos (UFSCar)<br/>
+💡 Exploring the intersection of technology, finance, and product development.<br/>
+🏅 Competitive programmer & passionate about algorithms, AI, and building data-driven systems.<br/>
+😀 Focused on building projects and creating meaningful impact.<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvarotardin) 
