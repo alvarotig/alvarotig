@@ -1,8 +1,7 @@
 # 👋 Hi, my name is Alvaro!
 
 💻 Computer Science undergraduate at the University of São Carlos (UFSCar)<br/>
-💡 Exploring the intersection of technology, finance, and product development.<br/>
-🏅 Competitive programmer & passionate about algorithms, AI, and building data-driven systems.<br/>
+💡 Ex-competitive programmer & passionate about algorithms, AI, and building data-driven systems.<br/>
 😀 Focused on building projects and creating meaningful impact.<br/>
 
 ## 🌐 Socials:
